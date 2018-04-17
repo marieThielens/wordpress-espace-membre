@@ -19,14 +19,14 @@ Choisir qui peut s'inscrire :
 Définir dans Réglages/Lecture :
 <img src="miniature5.png" width="70%">
 
-- Register
-- Login
-- User
+- Register (inscription) [ultimatemember form_id=44]
+- Login (connexion) [ultimatemember form_id=45]
+- User (utilisateur) [ultimatemember form_id=46]
 - Members
-- Account
-- Logout
-- Password Reset
-- User
+- Account : Page du compte de l'utilisateur pour modifier son compte[ultimatemember_account]
+- Logout (déconnexion) : 
+- Password Reset :  [ultimatemember_password] 
+
 
 ## Le pluggin
 
