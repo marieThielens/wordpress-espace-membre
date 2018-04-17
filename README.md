@@ -53,6 +53,26 @@ Access : Faut-il se logguer pour avoir accès au site ?
 ### Utilisateur
 
 - Un admin
-- Author : 1 ou 2 membres qui sont chargé d'actualiser le blog
+- Author : 1 ou 2 membres qui sont chargé d'actualiser le blog. En bas de page ne pas oublier de définir le rôle : author. 
 
 <img src="miniature8.png" width="70%">
+
+Se rôle est défini dans Ultimate Member/User Roles
+
+<img src="miniature9.png" width="70%">
+
+### restrindre une page (utilisateur pas membre)
+
+#### Le menu 
+
+<img src="miniature10.png" width="70%">
+
+**Empecher que le blog soit visible par qq'un qui n'est pas loggué**
+
+<img src="miniature11.png" width="70%">
+
+#### La page
+
+Cacher la page blog si je ne suis pas connecté :
+
+<img src="miniature12.png" width="70%">
